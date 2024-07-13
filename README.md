@@ -5,6 +5,11 @@ https://documentatioin.s3.amazonaws.com/index.html
 - Link to DB design:
  https://dbdiagram.io/d/TM-NEWTON-669120579939893daec4cfa5
 
+
+![TM NEWTON](https://github.com/user-attachments/assets/9a5b99b1-a591-43fb-b166-69cb7f28561a)
+
+
+
 ## 1. Introduction
 
 This Comprehensive Boilerplate API provides a robust set of endpoints for building a feature-rich web application. This document outlines the API's structure, main features, and key endpoints, including request and response formats.
